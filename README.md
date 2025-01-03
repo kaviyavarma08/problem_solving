@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kaviyavarma08/problem_solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/kaviyavarma08/problem_solving/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/kaviyavarma08/problem_solving/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/kaviyavarma08/problem_solving/tree/master/0053-maximum-subarray) |
 | [2358-number-of-ways-to-split-array](https://github.com/kaviyavarma08/problem_solving/tree/master/2358-number-of-ways-to-split-array) |
 ## Prefix Sum
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/kaviyavarma08/problem_solving/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/kaviyavarma08/problem_solving/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/kaviyavarma08/problem_solving/tree/master/0044-wildcard-matching) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kaviyavarma08/problem_solving/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
