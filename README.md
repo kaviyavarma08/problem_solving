@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/kaviyavarma08/problem_solving/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/kaviyavarma08/problem_solving/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/kaviyavarma08/problem_solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kaviyavarma08/problem_solving/tree/master/0142-linked-list-cycle-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/kaviyavarma08/problem_solving/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0044-wildcard-matching](https://github.com/kaviyavarma08/problem_solving/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/kaviyavarma08/problem_solving/tree/master/0065-valid-number) |
 ## Dynamic Programming
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kaviyavarma08/problem_solving/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/kaviyavarma08/problem_solving/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
