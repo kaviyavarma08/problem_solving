@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/kaviyavarma08/problem_solving/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/kaviyavarma08/problem_solving/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/kaviyavarma08/problem_solving/tree/master/0065-valid-number) |
+| [0214-shortest-palindrome](https://github.com/kaviyavarma08/problem_solving/tree/master/0214-shortest-palindrome) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kaviyavarma08/problem_solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/kaviyavarma08/problem_solving/tree/master/2465-shifting-letters-ii) |
 ## Dynamic Programming
@@ -145,4 +146,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kaviyavarma08/problem_solving/tree/master/0204-count-primes) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/kaviyavarma08/problem_solving/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/kaviyavarma08/problem_solving/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/kaviyavarma08/problem_solving/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
