@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kaviyavarma08/problem_solving/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/kaviyavarma08/problem_solving/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/kaviyavarma08/problem_solving/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/kaviyavarma08/problem_solving/tree/master/0204-count-primes) |
 | [2358-number-of-ways-to-split-array](https://github.com/kaviyavarma08/problem_solving/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/kaviyavarma08/problem_solving/tree/master/2465-shifting-letters-ii) |
 ## Prefix Sum
@@ -131,8 +132,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kaviyavarma08/problem_solving/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/kaviyavarma08/problem_solving/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/kaviyavarma08/problem_solving/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/kaviyavarma08/problem_solving/tree/master/0204-count-primes) |
 ## Sliding Window
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kaviyavarma08/problem_solving/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kaviyavarma08/problem_solving/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kaviyavarma08/problem_solving/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
