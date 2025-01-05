@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kaviyavarma08/problem_solving/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/kaviyavarma08/problem_solving/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kaviyavarma08/problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/kaviyavarma08/problem_solving/tree/master/0218-the-skyline-problem) |
 | [2358-number-of-ways-to-split-array](https://github.com/kaviyavarma08/problem_solving/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/kaviyavarma08/problem_solving/tree/master/2465-shifting-letters-ii) |
 ## Prefix Sum
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/kaviyavarma08/problem_solving/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/kaviyavarma08/problem_solving/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kaviyavarma08/problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/kaviyavarma08/problem_solving/tree/master/0218-the-skyline-problem) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kaviyavarma08/problem_solving/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kaviyavarma08/problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/kaviyavarma08/problem_solving/tree/master/0218-the-skyline-problem) |
 ## Merge Sort
 |  |
 | ------- |
@@ -169,4 +172,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kaviyavarma08/problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/kaviyavarma08/problem_solving/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/kaviyavarma08/problem_solving/tree/master/0218-the-skyline-problem) |
+## Line Sweep
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/kaviyavarma08/problem_solving/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/kaviyavarma08/problem_solving/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
