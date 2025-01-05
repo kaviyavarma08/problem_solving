@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/kaviyavarma08/problem_solving/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/kaviyavarma08/problem_solving/tree/master/0078-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kaviyavarma08/problem_solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Depth-First Search
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kaviyavarma08/problem_solving/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/kaviyavarma08/problem_solving/tree/master/0029-divide-two-integers) |
 ## Sliding Window
 |  |
 | ------- |
