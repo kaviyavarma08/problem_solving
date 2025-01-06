@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kaviyavarma08/problem_solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/kaviyavarma08/problem_solving/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/kaviyavarma08/problem_solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kaviyavarma08/problem_solving/tree/master/0142-linked-list-cycle-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kaviyavarma08/problem_solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kaviyavarma08/problem_solving/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/kaviyavarma08/problem_solving/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/kaviyavarma08/problem_solving/tree/master/0044-wildcard-matching) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kaviyavarma08/problem_solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/kaviyavarma08/problem_solving/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
