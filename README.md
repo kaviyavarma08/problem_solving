@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kaviyavarma08/problem_solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kaviyavarma08/problem_solving/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/kaviyavarma08/problem_solving/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/kaviyavarma08/problem_solving/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/kaviyavarma08/problem_solving/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/kaviyavarma08/problem_solving/tree/master/0065-valid-number) |
 | [0214-shortest-palindrome](https://github.com/kaviyavarma08/problem_solving/tree/master/0214-shortest-palindrome) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kaviyavarma08/problem_solving/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/kaviyavarma08/problem_solving/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/kaviyavarma08/problem_solving/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/kaviyavarma08/problem_solving/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/kaviyavarma08/problem_solving/tree/master/0204-count-primes) |
 ## Sliding Window
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kaviyavarma08/problem_solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kaviyavarma08/problem_solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/kaviyavarma08/problem_solving/tree/master/0222-count-complete-tree-nodes) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/kaviyavarma08/problem_solving/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
