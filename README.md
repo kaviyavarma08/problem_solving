@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kaviyavarma08/problem_solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/kaviyavarma08/problem_solving/tree/master/0222-count-complete-tree-nodes) |
 ## Backtracking
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/kaviyavarma08/problem_solving/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/kaviyavarma08/problem_solving/tree/master/0078-subsets) |
+| [0222-count-complete-tree-nodes](https://github.com/kaviyavarma08/problem_solving/tree/master/0222-count-complete-tree-nodes) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kaviyavarma08/problem_solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Depth-First Search
 |  |
@@ -211,10 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kaviyavarma08/problem_solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kaviyavarma08/problem_solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kaviyavarma08/problem_solving/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/kaviyavarma08/problem_solving/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kaviyavarma08/problem_solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kaviyavarma08/problem_solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kaviyavarma08/problem_solving/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/kaviyavarma08/problem_solving/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
