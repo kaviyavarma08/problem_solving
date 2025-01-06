@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kaviyavarma08/problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/kaviyavarma08/problem_solving/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/kaviyavarma08/problem_solving/tree/master/0220-contains-duplicate-iii) |
+| [0221-maximal-square](https://github.com/kaviyavarma08/problem_solving/tree/master/0221-maximal-square) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kaviyavarma08/problem_solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/kaviyavarma08/problem_solving/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/kaviyavarma08/problem_solving/tree/master/2465-shifting-letters-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/kaviyavarma08/problem_solving/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kaviyavarma08/problem_solving/tree/master/0053-maximum-subarray) |
 | [0213-house-robber-ii](https://github.com/kaviyavarma08/problem_solving/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/kaviyavarma08/problem_solving/tree/master/0221-maximal-square) |
 ## Greedy
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kaviyavarma08/problem_solving/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/kaviyavarma08/problem_solving/tree/master/0221-maximal-square) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
