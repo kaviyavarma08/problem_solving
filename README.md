@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kaviyavarma08/problem_solving/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/kaviyavarma08/problem_solving/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/kaviyavarma08/problem_solving/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/kaviyavarma08/problem_solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kaviyavarma08/problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/kaviyavarma08/problem_solving/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/kaviyavarma08/problem_solving/tree/master/0220-contains-duplicate-iii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kaviyavarma08/problem_solving/tree/master/0209-minimum-size-subarray-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kaviyavarma08/problem_solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kaviyavarma08/problem_solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/kaviyavarma08/problem_solving/tree/master/2358-number-of-ways-to-split-array) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kaviyavarma08/problem_solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/kaviyavarma08/problem_solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/kaviyavarma08/problem_solving/tree/master/0222-count-complete-tree-nodes) |
 ## Backtracking
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kaviyavarma08/problem_solving/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0209-minimum-size-subarray-sum](https://github.com/kaviyavarma08/problem_solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0220-contains-duplicate-iii](https://github.com/kaviyavarma08/problem_solving/tree/master/0220-contains-duplicate-iii) |
 ## Enumeration
 |  |
