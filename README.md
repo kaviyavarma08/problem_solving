@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/kaviyavarma08/problem_solving/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/kaviyavarma08/problem_solving/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/kaviyavarma08/problem_solving/tree/master/0221-maximal-square) |
+| [1524-string-matching-in-an-array](https://github.com/kaviyavarma08/problem_solving/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kaviyavarma08/problem_solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/kaviyavarma08/problem_solving/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/kaviyavarma08/problem_solving/tree/master/2465-shifting-letters-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/kaviyavarma08/problem_solving/tree/master/0065-valid-number) |
 | [0127-word-ladder](https://github.com/kaviyavarma08/problem_solving/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/kaviyavarma08/problem_solving/tree/master/0214-shortest-palindrome) |
+| [1524-string-matching-in-an-array](https://github.com/kaviyavarma08/problem_solving/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kaviyavarma08/problem_solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kaviyavarma08/problem_solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/kaviyavarma08/problem_solving/tree/master/2465-shifting-letters-ii) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kaviyavarma08/problem_solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/kaviyavarma08/problem_solving/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/kaviyavarma08/problem_solving/tree/master/0572-subtree-of-another-tree) |
+| [1524-string-matching-in-an-array](https://github.com/kaviyavarma08/problem_solving/tree/master/1524-string-matching-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kaviyavarma08/problem_solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
