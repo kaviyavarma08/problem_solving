@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kaviyavarma08/problem_solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kaviyavarma08/problem_solving/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/kaviyavarma08/problem_solving/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/kaviyavarma08/problem_solving/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kaviyavarma08/problem_solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/kaviyavarma08/problem_solving/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kaviyavarma08/problem_solving/tree/master/0237-delete-node-in-a-linked-list) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/kaviyavarma08/problem_solving/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/kaviyavarma08/problem_solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kaviyavarma08/problem_solving/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/kaviyavarma08/problem_solving/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kaviyavarma08/problem_solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kaviyavarma08/problem_solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Array
@@ -298,4 +300,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kaviyavarma08/problem_solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kaviyavarma08/problem_solving/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kaviyavarma08/problem_solving/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
