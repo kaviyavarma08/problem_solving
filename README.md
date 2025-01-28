@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/kaviyavarma08/problem_solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/kaviyavarma08/problem_solving/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/kaviyavarma08/problem_solving/tree/master/2465-shifting-letters-ii) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/kaviyavarma08/problem_solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kaviyavarma08/problem_solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kaviyavarma08/problem_solving/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kaviyavarma08/problem_solving/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kaviyavarma08/problem_solving/tree/master/0572-subtree-of-another-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/kaviyavarma08/problem_solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -163,16 +165,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/kaviyavarma08/problem_solving/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/kaviyavarma08/problem_solving/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kaviyavarma08/problem_solving/tree/master/0226-invert-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/kaviyavarma08/problem_solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kaviyavarma08/problem_solving/tree/master/0200-number-of-islands) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/kaviyavarma08/problem_solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/kaviyavarma08/problem_solving/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/kaviyavarma08/problem_solving/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/kaviyavarma08/problem_solving/tree/master/0221-maximal-square) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/kaviyavarma08/problem_solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
