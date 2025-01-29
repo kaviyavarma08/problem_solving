@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kaviyavarma08/problem_solving/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kaviyavarma08/problem_solving/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/kaviyavarma08/problem_solving/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/kaviyavarma08/problem_solving/tree/master/0041-first-missing-positive) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kaviyavarma08/problem_solving/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/kaviyavarma08/problem_solving/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kaviyavarma08/problem_solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/kaviyavarma08/problem_solving/tree/master/0036-valid-sudoku) |
