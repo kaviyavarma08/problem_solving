@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kaviyavarma08/problem_solving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaviyavarma08/problem_solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/kaviyavarma08/problem_solving/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kaviyavarma08/problem_solving/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/kaviyavarma08/problem_solving/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/kaviyavarma08/problem_solving/tree/master/0041-first-missing-positive) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaviyavarma08/problem_solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/kaviyavarma08/problem_solving/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/kaviyavarma08/problem_solving/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/kaviyavarma08/problem_solving/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kaviyavarma08/problem_solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kaviyavarma08/problem_solving/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/kaviyavarma08/problem_solving/tree/master/0038-count-and-say) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kaviyavarma08/problem_solving/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/kaviyavarma08/problem_solving/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/kaviyavarma08/problem_solving/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/kaviyavarma08/problem_solving/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/kaviyavarma08/problem_solving/tree/master/0050-powx-n) |
