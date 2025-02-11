@@ -1,63 +1,38 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
-    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        ListNode temp=list1;
-        if(list1==null && list2==null)
-        return list1;
-        if(list1==null && list2!=null)
-        return list2;
-        if(list1!=null && list2==null)
-        return list1;
-
-        if(list1.val<=list2.val)
-        {
-            
-            list1=list1.next;
-        }
-        else
-        {
-            
-            temp=list2;
-            list2=list2.next;
-        }
-        ListNode newhead=temp;
-        while(list1!=null && list2!=null)
-        {
-            if(list1.val <= list2.val)
-            {
-                temp.next=list1;
-                list1=list1.next;
+    private ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+        ListNode dummy = new ListNode(0);
+        ListNode prev = dummy;
+        ListNode p1 = l1, p2 = l2;
+        while (p1 != null && p2 != null) {
+            if (p1.val < p2.val) {
+                prev.next = p1;
+                p1 = p1.next;
+            } else {
+                prev.next = p2;
+                p2 = p2.next;
             }
-            else{
-                temp.next=list2;
-                list2=list2.next;
-            }
-            temp=temp.next;
+            prev = prev.next;
         }
-        if(list1==null)
-        {
-            temp.next=list2;
-        }
-        if(list2==null)
-        {
-            temp.next=list1;
-        }
-        return newhead;
+        prev.next = (p1 != null) ? p1 : p2;
+        return dummy.next;
     }
-    public ListNode mergeKLists(ListNode[] lists)
-    {
-        ListNode head=null;
-        for(ListNode i: lists)
-            head=mergeTwoLists(i,head);
-        return head;
+    
+    public ListNode mergeKLists(ListNode[] lists) {
+        if (lists.length == 0) return null;
+        
+        while (lists.length > 1) {
+            int mergedSize = (lists.length + 1) / 2;
+            ListNode[] merged = new ListNode[mergedSize];
+            for (int i = 0; i < mergedSize; i++) {
+                int index1 = i * 2;
+                int index2 = i * 2 + 1;
+                ListNode l1 = lists[index1];
+                ListNode l2 = (index2 < lists.length) ? lists[index2] : null;
+                merged[i] = mergeTwoLists(l1, l2);
+            }
+            lists = merged;
+        }
+        
+        return lists[0];
     }
 }
