@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kaviyavarma08/problem_solving/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kaviyavarma08/problem_solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/kaviyavarma08/problem_solving/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/kaviyavarma08/problem_solving/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/kaviyavarma08/problem_solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kaviyavarma08/problem_solving/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/kaviyavarma08/problem_solving/tree/master/0143-reorder-list) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kaviyavarma08/problem_solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/kaviyavarma08/problem_solving/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/kaviyavarma08/problem_solving/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/kaviyavarma08/problem_solving/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kaviyavarma08/problem_solving/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/kaviyavarma08/problem_solving/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kaviyavarma08/problem_solving/tree/master/0047-permutations-ii) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kaviyavarma08/problem_solving/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/kaviyavarma08/problem_solving/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/kaviyavarma08/problem_solving/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/kaviyavarma08/problem_solving/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kaviyavarma08/problem_solving/tree/master/0053-maximum-subarray) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kaviyavarma08/problem_solving/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kaviyavarma08/problem_solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/kaviyavarma08/problem_solving/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kaviyavarma08/problem_solving/tree/master/0144-binary-tree-preorder-traversal) |
@@ -345,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kaviyavarma08/problem_solving/tree/master/0146-lru-cache) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kaviyavarma08/problem_solving/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
