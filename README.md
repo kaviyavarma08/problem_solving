@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/kaviyavarma08/problem_solving/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/kaviyavarma08/problem_solving/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kaviyavarma08/problem_solving/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/kaviyavarma08/problem_solving/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/kaviyavarma08/problem_solving/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/kaviyavarma08/problem_solving/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/kaviyavarma08/problem_solving/tree/master/0200-number-of-islands) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/kaviyavarma08/problem_solving/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/kaviyavarma08/problem_solving/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/kaviyavarma08/problem_solving/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/kaviyavarma08/problem_solving/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/kaviyavarma08/problem_solving/tree/master/0221-maximal-square) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kaviyavarma08/problem_solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/kaviyavarma08/problem_solving/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/kaviyavarma08/problem_solving/tree/master/0054-spiral-matrix) |
 ## Trie
 |  |
 | ------- |
