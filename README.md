@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/kaviyavarma08/problem_solving/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/kaviyavarma08/problem_solving/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kaviyavarma08/problem_solving/tree/master/0160-intersection-of-two-linked-lists) |
+| [0290-word-pattern](https://github.com/kaviyavarma08/problem_solving/tree/master/0290-word-pattern) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kaviyavarma08/problem_solving/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kaviyavarma08/problem_solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3227-find-missing-and-repeated-values](https://github.com/kaviyavarma08/problem_solving/tree/master/3227-find-missing-and-repeated-values) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/kaviyavarma08/problem_solving/tree/master/0065-valid-number) |
 | [0127-word-ladder](https://github.com/kaviyavarma08/problem_solving/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/kaviyavarma08/problem_solving/tree/master/0214-shortest-palindrome) |
+| [0290-word-pattern](https://github.com/kaviyavarma08/problem_solving/tree/master/0290-word-pattern) |
 | [1524-string-matching-in-an-array](https://github.com/kaviyavarma08/problem_solving/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kaviyavarma08/problem_solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kaviyavarma08/problem_solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
