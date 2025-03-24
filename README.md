@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/kaviyavarma08/problem_solving/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/kaviyavarma08/problem_solving/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/kaviyavarma08/problem_solving/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/kaviyavarma08/problem_solving/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/kaviyavarma08/problem_solving/tree/master/0065-valid-number) |
 | [0127-word-ladder](https://github.com/kaviyavarma08/problem_solving/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/kaviyavarma08/problem_solving/tree/master/0214-shortest-palindrome) |
