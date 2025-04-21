@@ -374,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kaviyavarma08/problem_solving/tree/master/0042-trapping-rain-water) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/kaviyavarma08/problem_solving/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
