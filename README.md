@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kaviyavarma08/problem_solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kaviyavarma08/problem_solving/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/kaviyavarma08/problem_solving/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/kaviyavarma08/problem_solving/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaviyavarma08/problem_solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/kaviyavarma08/problem_solving/tree/master/0222-count-complete-tree-nodes) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/kaviyavarma08/problem_solving/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/kaviyavarma08/problem_solving/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kaviyavarma08/problem_solving/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/kaviyavarma08/problem_solving/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/kaviyavarma08/problem_solving/tree/master/0204-count-primes) |
 | [3227-find-missing-and-repeated-values](https://github.com/kaviyavarma08/problem_solving/tree/master/3227-find-missing-and-repeated-values) |
 ## Sliding Window
