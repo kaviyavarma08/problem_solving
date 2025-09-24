@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/kaviyavarma08/problem_solving/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/kaviyavarma08/problem_solving/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/kaviyavarma08/problem_solving/tree/master/0065-valid-number) |
+| [0071-simplify-path](https://github.com/kaviyavarma08/problem_solving/tree/master/0071-simplify-path) |
 | [0127-word-ladder](https://github.com/kaviyavarma08/problem_solving/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/kaviyavarma08/problem_solving/tree/master/0214-shortest-palindrome) |
 | [0290-word-pattern](https://github.com/kaviyavarma08/problem_solving/tree/master/0290-word-pattern) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kaviyavarma08/problem_solving/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/kaviyavarma08/problem_solving/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kaviyavarma08/problem_solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/kaviyavarma08/problem_solving/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kaviyavarma08/problem_solving/tree/master/0144-binary-tree-preorder-traversal) |
