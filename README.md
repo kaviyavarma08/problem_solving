@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/kaviyavarma08/problem_solving/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kaviyavarma08/problem_solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0290-word-pattern](https://github.com/kaviyavarma08/problem_solving/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/kaviyavarma08/problem_solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kaviyavarma08/problem_solving/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kaviyavarma08/problem_solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3227-find-missing-and-repeated-values](https://github.com/kaviyavarma08/problem_solving/tree/master/3227-find-missing-and-repeated-values) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/kaviyavarma08/problem_solving/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/kaviyavarma08/problem_solving/tree/master/0214-shortest-palindrome) |
 | [0290-word-pattern](https://github.com/kaviyavarma08/problem_solving/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/kaviyavarma08/problem_solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/kaviyavarma08/problem_solving/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kaviyavarma08/problem_solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kaviyavarma08/problem_solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -390,4 +392,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/kaviyavarma08/problem_solving/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/kaviyavarma08/problem_solving/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/kaviyavarma08/problem_solving/tree/master/1908-recyclable-and-low-fat-products) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kaviyavarma08/problem_solving/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kaviyavarma08/problem_solving/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
