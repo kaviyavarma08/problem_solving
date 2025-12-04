@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/kaviyavarma08/problem_solving/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/kaviyavarma08/problem_solving/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kaviyavarma08/problem_solving/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/kaviyavarma08/problem_solving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kaviyavarma08/problem_solving/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/kaviyavarma08/problem_solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kaviyavarma08/problem_solving/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/kaviyavarma08/problem_solving/tree/master/0071-simplify-path) |
 | [0127-word-ladder](https://github.com/kaviyavarma08/problem_solving/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/kaviyavarma08/problem_solving/tree/master/0214-shortest-palindrome) |
+| [0242-valid-anagram](https://github.com/kaviyavarma08/problem_solving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kaviyavarma08/problem_solving/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/kaviyavarma08/problem_solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/kaviyavarma08/problem_solving/tree/master/1524-string-matching-in-an-array) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/kaviyavarma08/problem_solving/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kaviyavarma08/problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/kaviyavarma08/problem_solving/tree/master/0220-contains-duplicate-iii) |
+| [0242-valid-anagram](https://github.com/kaviyavarma08/problem_solving/tree/master/0242-valid-anagram) |
 ## Quickselect
 |  |
 | ------- |
