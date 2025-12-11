@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/kaviyavarma08/problem_solving/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/kaviyavarma08/problem_solving/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kaviyavarma08/problem_solving/tree/master/0160-intersection-of-two-linked-lists) |
+| [0287-find-the-duplicate-number](https://github.com/kaviyavarma08/problem_solving/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/kaviyavarma08/problem_solving/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kaviyavarma08/problem_solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/kaviyavarma08/problem_solving/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/kaviyavarma08/problem_solving/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/kaviyavarma08/problem_solving/tree/master/0221-maximal-square) |
+| [0287-find-the-duplicate-number](https://github.com/kaviyavarma08/problem_solving/tree/master/0287-find-the-duplicate-number) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kaviyavarma08/problem_solving/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1524-string-matching-in-an-array](https://github.com/kaviyavarma08/problem_solving/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kaviyavarma08/problem_solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/kaviyavarma08/problem_solving/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaviyavarma08/problem_solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/kaviyavarma08/problem_solving/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/kaviyavarma08/problem_solving/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kaviyavarma08/problem_solving/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/kaviyavarma08/problem_solving/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/kaviyavarma08/problem_solving/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/kaviyavarma08/problem_solving/tree/master/0287-find-the-duplicate-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kaviyavarma08/problem_solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Depth-First Search
 |  |
