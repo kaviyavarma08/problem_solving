@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/kaviyavarma08/problem_solving/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/kaviyavarma08/problem_solving/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kaviyavarma08/problem_solving/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/kaviyavarma08/problem_solving/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/kaviyavarma08/problem_solving/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/kaviyavarma08/problem_solving/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kaviyavarma08/problem_solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/kaviyavarma08/problem_solving/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/kaviyavarma08/problem_solving/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kaviyavarma08/problem_solving/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/kaviyavarma08/problem_solving/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/kaviyavarma08/problem_solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kaviyavarma08/problem_solving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kaviyavarma08/problem_solving/tree/master/0290-word-pattern) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kaviyavarma08/problem_solving/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kaviyavarma08/problem_solving/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/kaviyavarma08/problem_solving/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/kaviyavarma08/problem_solving/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/kaviyavarma08/problem_solving/tree/master/0204-count-primes) |
 | [3227-find-missing-and-repeated-values](https://github.com/kaviyavarma08/problem_solving/tree/master/3227-find-missing-and-repeated-values) |
 ## Sliding Window
